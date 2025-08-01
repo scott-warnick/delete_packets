@@ -1,0 +1,13 @@
+
+Capturing argument 1 - Database flag
+database flag = PRODCapturing argument 2 - DHD ticket number
+ticket number=DHD-13069
+Capturing argument 3 - admin user
+adminuser =scott.warnick
+Capturing argument 4 - database port
+Connecting to database using port 5499
+Connected to database successfully
+Enter 't' to get the packet list from the terminal or 'r' to read it from the file packetlist.txt:  [t/r]: mode choice = r
+Verifying that all of the packets in the list have the same vendor
+The packet list has more than vendor vendor which is not allowed
+Split the packet list into a list of packets for each vendor and then run this tool on each list

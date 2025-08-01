@@ -1,0 +1,1065 @@
+
+Capturing argument 1 - Database flag
+database flag = PRODCapturing argument 2 - DHD ticket number
+ticket number=DHD-13069
+Capturing argument 3 - admin user
+adminuser =scott.warnick
+Capturing argument 4 - database port
+Connecting to database using port 5499
+Connected to database successfully
+Enter 't' to get the packet list from the terminal or 'r' to read it from the file packetlist.txt:  [t/r]: mode choice = r
+Verifying that all of the packets in the list have the same vendor
+
+Deletion status of packets in the list prepared using the vendorpacketid
+ nbr packetid     vendorid      pkg status   deleted date
+   1 51914511     160           COMPLETE     null 
+   2 52014680     160           COMPLETE     null 
+   3 52014311     160           COMPLETE     null 
+   4 51998217     160           COMPLETE     null 
+   5 52000018     160           COMPLETE     null 
+   6 52000349     160           COMPLETE     null 
+   7 52000106     160           COMPLETE     null 
+   8 51534886     160           COMPLETE     null 
+   9 51918269     160           COMPLETE     null 
+  10 51537755     160           COMPLETE     null 
+  11 51996177     160           COMPLETE     null 
+  12 51537330     160           COMPLETE     null 
+  13 52034204     160           COMPLETE     null 
+  14 51919915     160           COMPLETE     null 
+  15 52034415     160           COMPLETE     null 
+  16 52034832     160           COMPLETE     null 
+  17 52032488     160           COMPLETE     null 
+  18 52041452     160           COMPLETE     null 
+  19 52037243     160           COMPLETE     null 
+  20 52036397     160           COMPLETE     null 
+  21 52036586     160           COMPLETE     null 
+  22 52038088     160           COMPLETE     null 
+  23 52038236     160           COMPLETE     null 
+  24 52039015     160           COMPLETE     null 
+  25 52046900     160           COMPLETE     null 
+  26 51544318     160           COMPLETE     null 
+  27 52034213     160           COMPLETE     null 
+  28 52034859     160           COMPLETE     null 
+  29 52032602     160           COMPLETE     null 
+  30 51304248     160           COMPLETE     null 
+  31 52033637     160           COMPLETE     null 
+  32 51291704     160           COMPLETE     null 
+  33 52036548     160           COMPLETE     null 
+  34 52036473     160           COMPLETE     null 
+  35 52037055     160           COMPLETE     null 
+  36 52034885     160           COMPLETE     null 
+  37 51479147     160           COMPLETE     null 
+  38 52038093     160           COMPLETE     null 
+  39 51461138     160           COMPLETE     null 
+  40 51479721     160           COMPLETE     null 
+  41 51515134     160           COMPLETE     null 
+  42 51410102     160           COMPLETE     null 
+  43 51479810     160           COMPLETE     null 
+  44 51408379     160           COMPLETE     null 
+  45 51461266     160           COMPLETE     null 
+  46 51408386     160           COMPLETE     null 
+  47 52086480     160           COMPLETE     null 
+  48 51987761     160           COMPLETE     null 
+  49 51517165     160           COMPLETE     null 
+  50 51518817     160           COMPLETE     null 
+  51 51519051     160           COMPLETE     null 
+  52 51520012     160           COMPLETE     null 
+  53 51518693     160           COMPLETE     null 
+  54 51522294     160           COMPLETE     null 
+  55 51521425     160           COMPLETE     null 
+  56 51520493     160           COMPLETE     null 
+  57 51523920     160           COMPLETE     null 
+  58 51523130     160           COMPLETE     null 
+  59 51524291     160           COMPLETE     null 
+  60 51533346     160           COMPLETE     null 
+  61 51529710     160           COMPLETE     null 
+  62 51532100     160           COMPLETE     null 
+  63 51526211     160           COMPLETE     null 
+  64 51532403     160           COMPLETE     null 
+  65 51531854     160           COMPLETE     null 
+  66 51534817     160           COMPLETE     null 
+  67 51535082     160           COMPLETE     null 
+  68 51536514     160           COMPLETE     null 
+  69 51536348     160           COMPLETE     null 
+  70 51536657     160           COMPLETE     null 
+  71 51537366     160           COMPLETE     null 
+  72 51537815     160           COMPLETE     null 
+  73 51536138     160           COMPLETE     null 
+  74 51537422     160           COMPLETE     null 
+  75 51536442     160           COMPLETE     null 
+  76 51543865     160           COMPLETE     null 
+  77 51544426     160           COMPLETE     null 
+  78 51538954     160           COMPLETE     null 
+  79 51545717     160           COMPLETE     null 
+  80 51557744     160           COMPLETE     null 
+  81 51437234     160           COMPLETE     null 
+  82 51560613     160           COMPLETE     null 
+  83 51458322     160           COMPLETE     null 
+  84 51560120     160           COMPLETE     null 
+  85 51560617     160           COMPLETE     null 
+  86 51561425     160           COMPLETE     null 
+  87 51561349     160           COMPLETE     null 
+  88 51560607     160           COMPLETE     null 
+  89 51576689     160           COMPLETE     null 
+  90 51561071     160           COMPLETE     null 
+  91 51455848     160           COMPLETE     null 
+  92 51562284     160           COMPLETE     null 
+  93 51561623     160           COMPLETE     null 
+  94 51563490     160           COMPLETE     null 
+  95 51576687     160           COMPLETE     null 
+  96 51583091     160           COMPLETE     null 
+  97 51580122     160           COMPLETE     null 
+  98 51583093     160           COMPLETE     null 
+  99 51478553     160           COMPLETE     null 
+ 100 51582815     160           COMPLETE     null 
+ 101 51586415     160           COMPLETE     null 
+ 102 51584465     160           COMPLETE     null 
+ 103 51586967     160           COMPLETE     null 
+ 104 51617575     160           COMPLETE     null 
+ 105 51589715     160           COMPLETE     null 
+ 106 51610354     160           COMPLETE     null 
+ 107 51617090     160           COMPLETE     null 
+ 108 51616751     160           COMPLETE     null 
+ 109 51586484     160           COMPLETE     null 
+ 110 51589540     160           COMPLETE     null 
+ 111 51614713     160           COMPLETE     null 
+ 112 51614868     160           COMPLETE     null 
+ 113 51616494     160           COMPLETE     null 
+ 114 51620139     160           COMPLETE     null 
+ 115 51617463     160           COMPLETE     null 
+ 116 51617121     160           COMPLETE     null 
+ 117 51618255     160           COMPLETE     null 
+ 118 51625553     160           COMPLETE     null 
+ 119 51620581     160           COMPLETE     null 
+ 120 51624583     160           COMPLETE     null 
+ 121 51619892     160           COMPLETE     null 
+ 122 51624511     160           COMPLETE     null 
+ 123 51625528     160           COMPLETE     null 
+ 124 51580244     160           COMPLETE     null 
+ 125 51625338     160           COMPLETE     null 
+ 126 51639159     160           COMPLETE     null 
+ 127 51624600     160           COMPLETE     null 
+ 128 51619955     160           COMPLETE     null 
+ 129 51639985     160           COMPLETE     null 
+ 130 51639429     160           COMPLETE     null 
+ 131 51639859     160           COMPLETE     null 
+ 132 51640334     160           COMPLETE     null 
+ 133 51639907     160           COMPLETE     null 
+ 134 51639894     160           COMPLETE     null 
+ 135 51640869     160           COMPLETE     null 
+ 136 52187612     160           COMPLETE     null 
+ 137 51641250     160           COMPLETE     null 
+ 138 51641874     160           COMPLETE     null 
+ 139 51668392     160           COMPLETE     null 
+ 140 51666500     160           COMPLETE     null 
+ 141 51666677     160           COMPLETE     null 
+ 142 51670533     160           COMPLETE     null 
+ 143 51671959     160           COMPLETE     null 
+ 144 51665839     160           COMPLETE     null 
+ 145 51672104     160           COMPLETE     null 
+ 146 51673423     160           COMPLETE     null 
+ 147 51675656     160           COMPLETE     null 
+ 148 51671452     160           COMPLETE     null 
+ 149 51677557     160           COMPLETE     null 
+ 150 51673000     160           COMPLETE     null 
+ 151 51673665     160           COMPLETE     null 
+ 152 51673783     160           COMPLETE     null 
+ 153 51677385     160           COMPLETE     null 
+ 154 51681163     160           COMPLETE     null 
+ 155 51680326     160           COMPLETE     null 
+ 156 51677592     160           COMPLETE     null 
+ 157 51676999     160           COMPLETE     null 
+ 158 51677291     160           COMPLETE     null 
+ 159 51679707     160           COMPLETE     null 
+ 160 51677815     160           COMPLETE     null 
+ 161 51680924     160           COMPLETE     null 
+ 162 51684107     160           COMPLETE     null 
+ 163 51677600     160           COMPLETE     null 
+ 164 51679708     160           COMPLETE     null 
+ 165 51677544     160           COMPLETE     null 
+ 166 51685490     160           COMPLETE     null 
+ 167 51683578     160           COMPLETE     null 
+ 168 51680566     160           COMPLETE     null 
+ 169 51682188     160           COMPLETE     null 
+ 170 51685508     160           COMPLETE     null 
+ 171 51686351     160           COMPLETE     null 
+ 172 51686812     160           COMPLETE     null 
+ 173 51687434     160           COMPLETE     null 
+ 174 51687393     160           COMPLETE     null 
+ 175 51592252     160           COMPLETE     null 
+ 176 51686344     160           COMPLETE     null 
+ 177 51688594     160           COMPLETE     null 
+ 178 51689666     160           COMPLETE     null 
+ 179 51709298     160           COMPLETE     null 
+ 180 51695083     160           COMPLETE     null 
+ 181 51713743     160           COMPLETE     null 
+ 182 51710800     160           COMPLETE     null 
+ 183 51711129     160           COMPLETE     null 
+ 184 51711960     160           COMPLETE     null 
+ 185 51709428     160           COMPLETE     null 
+ 186 51714403     160           COMPLETE     null 
+ 187 51714785     160           COMPLETE     null 
+ 188 51718363     160           COMPLETE     null 
+ 189 51716476     160           COMPLETE     null 
+ 190 51717749     160           COMPLETE     null 
+ 191 51672529     160           COMPLETE     null 
+ 192 51719468     160           COMPLETE     null 
+ 193 51720000     160           COMPLETE     null 
+ 194 51724257     160           COMPLETE     null 
+ 195 51673679     160           COMPLETE     null 
+ 196 51775090     160           COMPLETE     null 
+ 197 51685960     160           COMPLETE     null 
+ 198 51749569     160           COMPLETE     null 
+ 199 51749572     160           COMPLETE     null 
+ 200 51750840     160           COMPLETE     null 
+ 201 51775082     160           COMPLETE     null 
+ 202 51772157     160           COMPLETE     null 
+ 203 51776987     160           COMPLETE     null 
+ 204 51777483     160           COMPLETE     null 
+ 205 51778061     160           COMPLETE     null 
+ 206 51777716     160           COMPLETE     null 
+ 207 51777798     160           COMPLETE     null 
+ 208 51777721     160           COMPLETE     null 
+ 209 51778318     160           COMPLETE     null 
+ 210 51781472     160           COMPLETE     null 
+ 211 51780230     160           COMPLETE     null 
+ 212 51782187     160           COMPLETE     null 
+ 213 51781239     160           COMPLETE     null 
+ 214 51783805     160           COMPLETE     null 
+ 215 51781254     160           COMPLETE     null 
+ 216 51846366     160           COMPLETE     null 
+ 217 51815665     160           COMPLETE     null 
+ 218 51846345     160           COMPLETE     null 
+ 219 51679414     160           COMPLETE     null 
+ 220 51821629     160           COMPLETE     null 
+ 221 51811941     160           COMPLETE     null 
+ 222 51845918     160           COMPLETE     null 
+ 223 51850363     160           COMPLETE     null 
+ 224 51811872     160           COMPLETE     null 
+ 225 51816231     160           COMPLETE     null 
+ 226 51813527     160           COMPLETE     null 
+ 227 51815391     160           COMPLETE     null 
+ 228 51813138     160           COMPLETE     null 
+ 229 51817255     160           COMPLETE     null 
+ 230 51824468     160           COMPLETE     null 
+ 231 51824224     160           COMPLETE     null 
+ 232 51818096     160           COMPLETE     null 
+ 233 51859774     160           COMPLETE     null 
+ 234 51862917     160           COMPLETE     null 
+ 235 51863844     160           COMPLETE     null 
+ 236 51863913     160           COMPLETE     null 
+ 237 51810486     160           COMPLETE     null 
+ 238 51846237     160           COMPLETE     null 
+ 239 51811126     160           COMPLETE     null 
+ 240 51845708     160           COMPLETE     null 
+ 241 51863090     160           COMPLETE     null 
+ 242 52258922     160           COMPLETE     null 
+ 243 51810467     160           COMPLETE     null 
+ 244 51818091     160           COMPLETE     null 
+ 245 51819858     160           COMPLETE     null 
+ 246 51814075     160           COMPLETE     null 
+ 247 51811091     160           COMPLETE     null 
+ 248 51846799     160           COMPLETE     null 
+ 249 51824766     160           COMPLETE     null 
+ 250 51861331     160           COMPLETE     null 
+ 251 51869389     160           COMPLETE     null 
+ 252 51811458     160           COMPLETE     null 
+ 253 51872755     160           COMPLETE     null 
+ 254 51869292     160           COMPLETE     null 
+ 255 51843407     160           COMPLETE     null 
+ 256 51821555     160           COMPLETE     null 
+ 257 51814076     160           COMPLETE     null 
+ 258 51821622     160           COMPLETE     null 
+ 259 51874992     160           COMPLETE     null 
+ 260 51846128     160           COMPLETE     null 
+ 261 51882396     160           COMPLETE     null 
+ 262 51880651     160           COMPLETE     null 
+ 263 51875735     160           COMPLETE     null 
+ 264 51843381     160           COMPLETE     null 
+ 265 51881504     160           COMPLETE     null 
+ 266 51877580     160           COMPLETE     null 
+ 267 51810124     160           COMPLETE     null 
+ 268 51884295     160           COMPLETE     null 
+ 269 51887337     160           COMPLETE     null 
+ 270 51848994     160           COMPLETE     null 
+ 271 51890260     160           COMPLETE     null 
+ 272 51890249     160           COMPLETE     null 
+ 273 51846712     160           COMPLETE     null 
+ 274 51912967     160           COMPLETE     null 
+ 275 51847431     160           COMPLETE     null 
+ 276 51910566     160           COMPLETE     null 
+ 277 51811081     160           COMPLETE     null 
+ 278 51912980     160           COMPLETE     null 
+ 279 51914558     160           COMPLETE     null 
+ 280 51906729     160           COMPLETE     null 
+ 281 51912688     160           COMPLETE     null 
+ 282 51862183     160           COMPLETE     null 
+ 283 51915244     160           COMPLETE     null 
+ 284 51915158     160           COMPLETE     null 
+ 285 51923413     160           COMPLETE     null 
+ 286 51918001     160           COMPLETE     null 
+ 287 51918396     160           COMPLETE     null 
+ 288 51917734     160           COMPLETE     null 
+ 289 51919512     160           COMPLETE     null 
+ 290 51918597     160           COMPLETE     null 
+ 291 51919295     160           COMPLETE     null 
+ 292 51923398     160           COMPLETE     null 
+ 293 51870490     160           COMPLETE     null 
+ 294 51885397     160           COMPLETE     null 
+ 295 51885393     160           COMPLETE     null 
+ 296 51914501     160           COMPLETE     null 
+ 297 51862651     160           COMPLETE     null 
+ 298 51880652     160           COMPLETE     null 
+ 299 51869693     160           COMPLETE     null 
+ 300 51875265     160           COMPLETE     null 
+ 301 51915933     160           COMPLETE     null 
+ 302 51919169     160           COMPLETE     null 
+ 303 51871469     160           COMPLETE     null 
+ 304 51904308     160           COMPLETE     null 
+ 305 51919019     160           COMPLETE     null 
+ 306 51913680     160           COMPLETE     null 
+ 307 51919519     160           COMPLETE     null 
+ 308 51918701     160           COMPLETE     null 
+ 309 51918253     160           COMPLETE     null 
+ 310 51918688     160           COMPLETE     null 
+ 311 51892011     160           COMPLETE     null 
+ 312 51915056     160           COMPLETE     null 
+ 313 51962001     160           COMPLETE     null 
+ 314 51972028     160           COMPLETE     null 
+ 315 51973376     160           COMPLETE     null 
+ 316 51988984     160           COMPLETE     null 
+ 317 51988983     160           COMPLETE     null 
+ 318 51988985     160           COMPLETE     null 
+ 319 51995134     160           COMPLETE     null 
+ 320 51990141     160           COMPLETE     null 
+ 321 51991604     160           COMPLETE     null 
+ 322 51524277     160           COMPLETE     null 
+ 323 51995820     160           COMPLETE     null 
+ 324 51997240     160           COMPLETE     null 
+ 325 51998373     160           COMPLETE     null 
+ 326 51998383     160           COMPLETE     null 
+ 327 51999760     160           COMPLETE     null 
+ 328 52000053     160           COMPLETE     null 
+ 329 51460615     160           COMPLETE     null 
+ 330 52004892     160           COMPLETE     null 
+ 331 52004824     160           COMPLETE     null 
+ 332 52014605     160           COMPLETE     null 
+ 333 52014057     160           COMPLETE     null 
+ 334 52014470     160           COMPLETE     null 
+ 335 52014301     160           COMPLETE     null 
+ 336 52014577     160           COMPLETE     null 
+ 337 52006891     160           COMPLETE     null 
+ 338 52006847     160           COMPLETE     null 
+ 339 51989728     160           COMPLETE     null 
+ 340 52017432     160           COMPLETE     null 
+ 341 52017365     160           COMPLETE     null 
+ 342 52017052     160           COMPLETE     null 
+ 343 52018131     160           COMPLETE     null 
+ 344 52016706     160           COMPLETE     null 
+ 345 52017459     160           COMPLETE     null 
+ 346 51996981     160           COMPLETE     null 
+ 347 52018018     160           COMPLETE     null 
+
+Deletion status of packets in the list prepared using the displaypacketid
+ nbr packetid     vendorid      pkg status   deleted date
+   1 51998217     160           COMPLETE     null 
+   2 52014680     160           COMPLETE     null 
+   3 52000349     160           COMPLETE     null 
+   4 52000018     160           COMPLETE     null 
+   5 52014311     160           COMPLETE     null 
+   6 51914511     160           COMPLETE     null 
+   7 52000106     160           COMPLETE     null 
+   8 51996177     160           COMPLETE     null 
+   9 51918269     160           COMPLETE     null 
+  10 51534886     160           COMPLETE     null 
+  11 52034204     160           COMPLETE     null 
+  12 51537755     160           COMPLETE     null 
+  13 52034415     160           COMPLETE     null 
+  14 51919915     160           COMPLETE     null 
+  15 52032488     160           COMPLETE     null 
+  16 52036397     160           COMPLETE     null 
+  17 52034832     160           COMPLETE     null 
+  18 51537330     160           COMPLETE     null 
+  19 52038088     160           COMPLETE     null 
+  20 52036586     160           COMPLETE     null 
+  21 52037243     160           COMPLETE     null 
+  22 52038236     160           COMPLETE     null 
+  23 52039015     160           COMPLETE     null 
+  24 51544318     160           COMPLETE     null 
+  25 52041452     160           COMPLETE     null 
+  26 52046900     160           COMPLETE     null 
+  27 52033637     160           COMPLETE     null 
+  28 52034213     160           COMPLETE     null 
+  29 52034859     160           COMPLETE     null 
+  30 52032602     160           COMPLETE     null 
+  31 51291704     160           COMPLETE     null 
+  32 52037055     160           COMPLETE     null 
+  33 52036473     160           COMPLETE     null 
+  34 52036548     160           COMPLETE     null 
+  35 51304248     160           COMPLETE     null 
+  36 52034885     160           COMPLETE     null 
+  37 51461138     160           COMPLETE     null 
+  38 52038093     160           COMPLETE     null 
+  39 51479147     160           COMPLETE     null 
+  40 51479721     160           COMPLETE     null 
+  41 52086480     160           COMPLETE     null 
+  42 51461266     160           COMPLETE     null 
+  43 51408386     160           COMPLETE     null 
+  44 51410102     160           COMPLETE     null 
+  45 51987761     160           COMPLETE     null 
+  46 51517165     160           COMPLETE     null 
+  47 51479810     160           COMPLETE     null 
+  48 51408379     160           COMPLETE     null 
+  49 51515134     160           COMPLETE     null 
+  50 51520493     160           COMPLETE     null 
+  51 51519051     160           COMPLETE     null 
+  52 51518817     160           COMPLETE     null 
+  53 51518693     160           COMPLETE     null 
+  54 51520012     160           COMPLETE     null 
+  55 51522294     160           COMPLETE     null 
+  56 51521425     160           COMPLETE     null 
+  57 51526211     160           COMPLETE     null 
+  58 51523920     160           COMPLETE     null 
+  59 51523130     160           COMPLETE     null 
+  60 51524291     160           COMPLETE     null 
+  61 51533346     160           COMPLETE     null 
+  62 51529710     160           COMPLETE     null 
+  63 51532403     160           COMPLETE     null 
+  64 51531854     160           COMPLETE     null 
+  65 51532100     160           COMPLETE     null 
+  66 51536348     160           COMPLETE     null 
+  67 51534817     160           COMPLETE     null 
+  68 51535082     160           COMPLETE     null 
+  69 51537815     160           COMPLETE     null 
+  70 51537366     160           COMPLETE     null 
+  71 51536138     160           COMPLETE     null 
+  72 51536514     160           COMPLETE     null 
+  73 51536442     160           COMPLETE     null 
+  74 51536657     160           COMPLETE     null 
+  75 51537422     160           COMPLETE     null 
+  76 51538954     160           COMPLETE     null 
+  77 51557744     160           COMPLETE     null 
+  78 51544426     160           COMPLETE     null 
+  79 51437234     160           COMPLETE     null 
+  80 51545717     160           COMPLETE     null 
+  81 51543865     160           COMPLETE     null 
+  82 51458322     160           COMPLETE     null 
+  83 51560607     160           COMPLETE     null 
+  84 51560613     160           COMPLETE     null 
+  85 51560617     160           COMPLETE     null 
+  86 51560120     160           COMPLETE     null 
+  87 51561349     160           COMPLETE     null 
+  88 51561071     160           COMPLETE     null 
+  89 51561425     160           COMPLETE     null 
+  90 51583093     160           COMPLETE     null 
+  91 51455848     160           COMPLETE     null 
+  92 51562284     160           COMPLETE     null 
+  93 51561623     160           COMPLETE     null 
+  94 51563490     160           COMPLETE     null 
+  95 51576689     160           COMPLETE     null 
+  96 51576687     160           COMPLETE     null 
+  97 51580122     160           COMPLETE     null 
+  98 51583091     160           COMPLETE     null 
+  99 51586415     160           COMPLETE     null 
+ 100 51582815     160           COMPLETE     null 
+ 101 51584465     160           COMPLETE     null 
+ 102 51478553     160           COMPLETE     null 
+ 103 51586967     160           COMPLETE     null 
+ 104 51610354     160           COMPLETE     null 
+ 105 51586484     160           COMPLETE     null 
+ 106 51589540     160           COMPLETE     null 
+ 107 51589715     160           COMPLETE     null 
+ 108 51614713     160           COMPLETE     null 
+ 109 51616751     160           COMPLETE     null 
+ 110 51614868     160           COMPLETE     null 
+ 111 51617090     160           COMPLETE     null 
+ 112 51616494     160           COMPLETE     null 
+ 113 51625338     160           COMPLETE     null 
+ 114 51617121     160           COMPLETE     null 
+ 115 51618255     160           COMPLETE     null 
+ 116 51619892     160           COMPLETE     null 
+ 117 51620581     160           COMPLETE     null 
+ 118 51624583     160           COMPLETE     null 
+ 119 51617575     160           COMPLETE     null 
+ 120 51617463     160           COMPLETE     null 
+ 121 51620139     160           COMPLETE     null 
+ 122 51624511     160           COMPLETE     null 
+ 123 51625553     160           COMPLETE     null 
+ 124 51625528     160           COMPLETE     null 
+ 125 51624600     160           COMPLETE     null 
+ 126 51619955     160           COMPLETE     null 
+ 127 51580244     160           COMPLETE     null 
+ 128 51639159     160           COMPLETE     null 
+ 129 51639894     160           COMPLETE     null 
+ 130 51639429     160           COMPLETE     null 
+ 131 51639985     160           COMPLETE     null 
+ 132 51639859     160           COMPLETE     null 
+ 133 51641874     160           COMPLETE     null 
+ 134 51640869     160           COMPLETE     null 
+ 135 51641250     160           COMPLETE     null 
+ 136 51639907     160           COMPLETE     null 
+ 137 51640334     160           COMPLETE     null 
+ 138 52187612     160           COMPLETE     null 
+ 139 51666500     160           COMPLETE     null 
+ 140 51665839     160           COMPLETE     null 
+ 141 51666677     160           COMPLETE     null 
+ 142 51668392     160           COMPLETE     null 
+ 143 51670533     160           COMPLETE     null 
+ 144 51673423     160           COMPLETE     null 
+ 145 51672104     160           COMPLETE     null 
+ 146 51671959     160           COMPLETE     null 
+ 147 51675656     160           COMPLETE     null 
+ 148 51671452     160           COMPLETE     null 
+ 149 51677385     160           COMPLETE     null 
+ 150 51673000     160           COMPLETE     null 
+ 151 51673665     160           COMPLETE     null 
+ 152 51673783     160           COMPLETE     null 
+ 153 51677600     160           COMPLETE     null 
+ 154 51677557     160           COMPLETE     null 
+ 155 51676999     160           COMPLETE     null 
+ 156 51681163     160           COMPLETE     null 
+ 157 51677815     160           COMPLETE     null 
+ 158 51677291     160           COMPLETE     null 
+ 159 51680924     160           COMPLETE     null 
+ 160 51680326     160           COMPLETE     null 
+ 161 51677592     160           COMPLETE     null 
+ 162 51679707     160           COMPLETE     null 
+ 163 51677544     160           COMPLETE     null 
+ 164 51679708     160           COMPLETE     null 
+ 165 51684107     160           COMPLETE     null 
+ 166 51683578     160           COMPLETE     null 
+ 167 51685508     160           COMPLETE     null 
+ 168 51680566     160           COMPLETE     null 
+ 169 51682188     160           COMPLETE     null 
+ 170 51686351     160           COMPLETE     null 
+ 171 51685490     160           COMPLETE     null 
+ 172 51686812     160           COMPLETE     null 
+ 173 51687434     160           COMPLETE     null 
+ 174 51709298     160           COMPLETE     null 
+ 175 51686344     160           COMPLETE     null 
+ 176 51688594     160           COMPLETE     null 
+ 177 51695083     160           COMPLETE     null 
+ 178 51687393     160           COMPLETE     null 
+ 179 51689666     160           COMPLETE     null 
+ 180 51592252     160           COMPLETE     null 
+ 181 51710800     160           COMPLETE     null 
+ 182 51714785     160           COMPLETE     null 
+ 183 51711960     160           COMPLETE     null 
+ 184 51711129     160           COMPLETE     null 
+ 185 51709428     160           COMPLETE     null 
+ 186 51714403     160           COMPLETE     null 
+ 187 51717749     160           COMPLETE     null 
+ 188 51713743     160           COMPLETE     null 
+ 189 51716476     160           COMPLETE     null 
+ 190 51718363     160           COMPLETE     null 
+ 191 51719468     160           COMPLETE     null 
+ 192 51673679     160           COMPLETE     null 
+ 193 51720000     160           COMPLETE     null 
+ 194 51724257     160           COMPLETE     null 
+ 195 51672529     160           COMPLETE     null 
+ 196 51749572     160           COMPLETE     null 
+ 197 51749569     160           COMPLETE     null 
+ 198 51685960     160           COMPLETE     null 
+ 199 51775090     160           COMPLETE     null 
+ 200 51750840     160           COMPLETE     null 
+ 201 51775082     160           COMPLETE     null 
+ 202 51777721     160           COMPLETE     null 
+ 203 51772157     160           COMPLETE     null 
+ 204 51776987     160           COMPLETE     null 
+ 205 51778061     160           COMPLETE     null 
+ 206 51777716     160           COMPLETE     null 
+ 207 51777483     160           COMPLETE     null 
+ 208 51777798     160           COMPLETE     null 
+ 209 51778318     160           COMPLETE     null 
+ 210 51780230     160           COMPLETE     null 
+ 211 51679414     160           COMPLETE     null 
+ 212 51781472     160           COMPLETE     null 
+ 213 51782187     160           COMPLETE     null 
+ 214 51781239     160           COMPLETE     null 
+ 215 51781254     160           COMPLETE     null 
+ 216 51783805     160           COMPLETE     null 
+ 217 51815665     160           COMPLETE     null 
+ 218 51821629     160           COMPLETE     null 
+ 219 51846366     160           COMPLETE     null 
+ 220 51846345     160           COMPLETE     null 
+ 221 51811941     160           COMPLETE     null 
+ 222 51845918     160           COMPLETE     null 
+ 223 51850363     160           COMPLETE     null 
+ 224 51817255     160           COMPLETE     null 
+ 225 51811872     160           COMPLETE     null 
+ 226 51813527     160           COMPLETE     null 
+ 227 51813138     160           COMPLETE     null 
+ 228 51815391     160           COMPLETE     null 
+ 229 51816231     160           COMPLETE     null 
+ 230 51863913     160           COMPLETE     null 
+ 231 51824224     160           COMPLETE     null 
+ 232 51859774     160           COMPLETE     null 
+ 233 51818096     160           COMPLETE     null 
+ 234 51824468     160           COMPLETE     null 
+ 235 51863844     160           COMPLETE     null 
+ 236 51810486     160           COMPLETE     null 
+ 237 51862917     160           COMPLETE     null 
+ 238 51811126     160           COMPLETE     null 
+ 239 52258922     160           COMPLETE     null 
+ 240 51846237     160           COMPLETE     null 
+ 241 51810467     160           COMPLETE     null 
+ 242 51811091     160           COMPLETE     null 
+ 243 51818091     160           COMPLETE     null 
+ 244 51845708     160           COMPLETE     null 
+ 245 51863090     160           COMPLETE     null 
+ 246 51819858     160           COMPLETE     null 
+ 247 51814075     160           COMPLETE     null 
+ 248 51869389     160           COMPLETE     null 
+ 249 51861331     160           COMPLETE     null 
+ 250 51824766     160           COMPLETE     null 
+ 251 51846799     160           COMPLETE     null 
+ 252 51811458     160           COMPLETE     null 
+ 253 51869292     160           COMPLETE     null 
+ 254 51872755     160           COMPLETE     null 
+ 255 51843407     160           COMPLETE     null 
+ 256 51821622     160           COMPLETE     null 
+ 257 51814076     160           COMPLETE     null 
+ 258 51880651     160           COMPLETE     null 
+ 259 51846128     160           COMPLETE     null 
+ 260 51874992     160           COMPLETE     null 
+ 261 51821555     160           COMPLETE     null 
+ 262 51882396     160           COMPLETE     null 
+ 263 51843381     160           COMPLETE     null 
+ 264 51881504     160           COMPLETE     null 
+ 265 51875735     160           COMPLETE     null 
+ 266 51890249     160           COMPLETE     null 
+ 267 51887337     160           COMPLETE     null 
+ 268 51810124     160           COMPLETE     null 
+ 269 51877580     160           COMPLETE     null 
+ 270 51848994     160           COMPLETE     null 
+ 271 51884295     160           COMPLETE     null 
+ 272 51811081     160           COMPLETE     null 
+ 273 51846712     160           COMPLETE     null 
+ 274 51847431     160           COMPLETE     null 
+ 275 51910566     160           COMPLETE     null 
+ 276 51890260     160           COMPLETE     null 
+ 277 51915244     160           COMPLETE     null 
+ 278 51912967     160           COMPLETE     null 
+ 279 51906729     160           COMPLETE     null 
+ 280 51914558     160           COMPLETE     null 
+ 281 51912980     160           COMPLETE     null 
+ 282 51912688     160           COMPLETE     null 
+ 283 51915158     160           COMPLETE     null 
+ 284 51862183     160           COMPLETE     null 
+ 285 51918001     160           COMPLETE     null 
+ 286 51919512     160           COMPLETE     null 
+ 287 51917734     160           COMPLETE     null 
+ 288 51918396     160           COMPLETE     null 
+ 289 51918597     160           COMPLETE     null 
+ 290 51870490     160           COMPLETE     null 
+ 291 51919295     160           COMPLETE     null 
+ 292 51885393     160           COMPLETE     null 
+ 293 51923413     160           COMPLETE     null 
+ 294 51923398     160           COMPLETE     null 
+ 295 51885397     160           COMPLETE     null 
+ 296 51914501     160           COMPLETE     null 
+ 297 51862651     160           COMPLETE     null 
+ 298 51869693     160           COMPLETE     null 
+ 299 51875265     160           COMPLETE     null 
+ 300 51919169     160           COMPLETE     null 
+ 301 51880652     160           COMPLETE     null 
+ 302 51871469     160           COMPLETE     null 
+ 303 51904308     160           COMPLETE     null 
+ 304 51915933     160           COMPLETE     null 
+ 305 51913680     160           COMPLETE     null 
+ 306 51918701     160           COMPLETE     null 
+ 307 51918253     160           COMPLETE     null 
+ 308 51919019     160           COMPLETE     null 
+ 309 51919519     160           COMPLETE     null 
+ 310 51918688     160           COMPLETE     null 
+ 311 51973376     160           COMPLETE     null 
+ 312 51962001     160           COMPLETE     null 
+ 313 51915056     160           COMPLETE     null 
+ 314 51892011     160           COMPLETE     null 
+ 315 51972028     160           COMPLETE     null 
+ 316 51988983     160           COMPLETE     null 
+ 317 51988985     160           COMPLETE     null 
+ 318 51988984     160           COMPLETE     null 
+ 319 51998373     160           COMPLETE     null 
+ 320 51991604     160           COMPLETE     null 
+ 321 51524277     160           COMPLETE     null 
+ 322 51990141     160           COMPLETE     null 
+ 323 51995134     160           COMPLETE     null 
+ 324 51997240     160           COMPLETE     null 
+ 325 51998383     160           COMPLETE     null 
+ 326 51995820     160           COMPLETE     null 
+ 327 51999760     160           COMPLETE     null 
+ 328 51460615     160           COMPLETE     null 
+ 329 52000053     160           COMPLETE     null 
+ 330 52004824     160           COMPLETE     null 
+ 331 52004892     160           COMPLETE     null 
+ 332 52006891     160           COMPLETE     null 
+ 333 52014605     160           COMPLETE     null 
+ 334 52006847     160           COMPLETE     null 
+ 335 51989728     160           COMPLETE     null 
+ 336 52014470     160           COMPLETE     null 
+ 337 52014301     160           COMPLETE     null 
+ 338 52014577     160           COMPLETE     null 
+ 339 52014057     160           COMPLETE     null 
+ 340 52017365     160           COMPLETE     null 
+ 341 52017052     160           COMPLETE     null 
+ 342 52017432     160           COMPLETE     null 
+ 343 52017459     160           COMPLETE     null 
+ 344 52016706     160           COMPLETE     null 
+ 345 51996981     160           COMPLETE     null 
+ 346 52018018     160           COMPLETE     null 
+ 347 52018131     160           COMPLETE     null 
+
+
+Should I use the standard database function these packets [y/n]: Deletion confirmed - deleting packets
+Rows affected = 347
+
+Deletion status of packets in the list prepared using the vendorpacketid
+ nbr packetid     vendorid      pkg status   deleted date
+   1 51996177     160           COMPLETE     August 7, 2024 
+   2 51534886     160           COMPLETE     August 7, 2024 
+   3 51537755     160           COMPLETE     August 7, 2024 
+   4 52034204     160           COMPLETE     August 7, 2024 
+   5 52034832     160           COMPLETE     August 7, 2024 
+   6 52037243     160           COMPLETE     August 7, 2024 
+   7 51537330     160           COMPLETE     August 7, 2024 
+   8 52036397     160           COMPLETE     August 7, 2024 
+   9 52036586     160           COMPLETE     August 7, 2024 
+  10 52038088     160           COMPLETE     August 7, 2024 
+  11 52039015     160           COMPLETE     August 7, 2024 
+  12 52038236     160           COMPLETE     August 7, 2024 
+  13 52041452     160           COMPLETE     August 7, 2024 
+  14 51544318     160           COMPLETE     August 7, 2024 
+  15 52034859     160           COMPLETE     August 7, 2024 
+  16 51304248     160           COMPLETE     August 7, 2024 
+  17 51291704     160           COMPLETE     August 7, 2024 
+  18 52033637     160           COMPLETE     August 7, 2024 
+  19 51461266     160           COMPLETE     August 7, 2024 
+  20 52036473     160           COMPLETE     August 7, 2024 
+  21 52036548     160           COMPLETE     August 7, 2024 
+  22 51479147     160           COMPLETE     August 7, 2024 
+  23 51479721     160           COMPLETE     August 7, 2024 
+  24 52037055     160           COMPLETE     August 7, 2024 
+  25 52086480     160           COMPLETE     August 7, 2024 
+  26 51408386     160           COMPLETE     August 7, 2024 
+  27 51410102     160           COMPLETE     August 7, 2024 
+  28 51987761     160           COMPLETE     August 7, 2024 
+  29 51519051     160           COMPLETE     August 7, 2024 
+  30 51408379     160           COMPLETE     August 7, 2024 
+  31 51517165     160           COMPLETE     August 7, 2024 
+  32 51522294     160           COMPLETE     August 7, 2024 
+  33 51520493     160           COMPLETE     August 7, 2024 
+  34 51520012     160           COMPLETE     August 7, 2024 
+  35 51521425     160           COMPLETE     August 7, 2024 
+  36 51526211     160           COMPLETE     August 7, 2024 
+  37 51523130     160           COMPLETE     August 7, 2024 
+  38 51524291     160           COMPLETE     August 7, 2024 
+  39 51523920     160           COMPLETE     August 7, 2024 
+  40 51536348     160           COMPLETE     August 7, 2024 
+  41 51532403     160           COMPLETE     August 7, 2024 
+  42 51533346     160           COMPLETE     August 7, 2024 
+  43 51529710     160           COMPLETE     August 7, 2024 
+  44 51532100     160           COMPLETE     August 7, 2024 
+  45 51535082     160           COMPLETE     August 7, 2024 
+  46 51536657     160           COMPLETE     August 7, 2024 
+  47 51536514     160           COMPLETE     August 7, 2024 
+  48 51537366     160           COMPLETE     August 7, 2024 
+  49 51537815     160           COMPLETE     August 7, 2024 
+  50 51437234     160           COMPLETE     August 7, 2024 
+  51 51536442     160           COMPLETE     August 7, 2024 
+  52 51538954     160           COMPLETE     August 7, 2024 
+  53 51544426     160           COMPLETE     August 7, 2024 
+  54 51537422     160           COMPLETE     August 7, 2024 
+  55 51545717     160           COMPLETE     August 7, 2024 
+  56 51543865     160           COMPLETE     August 7, 2024 
+  57 51455848     160           COMPLETE     August 7, 2024 
+  58 51557744     160           COMPLETE     August 7, 2024 
+  59 51458322     160           COMPLETE     August 7, 2024 
+  60 51561349     160           COMPLETE     August 7, 2024 
+  61 51560607     160           COMPLETE     August 7, 2024 
+  62 51560120     160           COMPLETE     August 7, 2024 
+  63 51560613     160           COMPLETE     August 7, 2024 
+  64 51560617     160           COMPLETE     August 7, 2024 
+  65 51561623     160           COMPLETE     August 7, 2024 
+  66 51563490     160           COMPLETE     August 7, 2024 
+  67 51576689     160           COMPLETE     August 7, 2024 
+  68 51580122     160           COMPLETE     August 7, 2024 
+  69 51586415     160           COMPLETE     August 7, 2024 
+  70 51583093     160           COMPLETE     August 7, 2024 
+  71 51582815     160           COMPLETE     August 7, 2024 
+  72 51584465     160           COMPLETE     August 7, 2024 
+  73 51583091     160           COMPLETE     August 7, 2024 
+  74 51478553     160           COMPLETE     August 7, 2024 
+  75 51586967     160           COMPLETE     August 7, 2024 
+  76 51616494     160           COMPLETE     August 7, 2024 
+  77 51589715     160           COMPLETE     August 7, 2024 
+  78 51610354     160           COMPLETE     August 7, 2024 
+  79 51614713     160           COMPLETE     August 7, 2024 
+  80 51614868     160           COMPLETE     August 7, 2024 
+  81 51617090     160           COMPLETE     August 7, 2024 
+  82 51586484     160           COMPLETE     August 7, 2024 
+  83 51589540     160           COMPLETE     August 7, 2024 
+  84 51616751     160           COMPLETE     August 7, 2024 
+  85 51617463     160           COMPLETE     August 7, 2024 
+  86 51617575     160           COMPLETE     August 7, 2024 
+  87 51624600     160           COMPLETE     August 7, 2024 
+  88 51619892     160           COMPLETE     August 7, 2024 
+  89 51620581     160           COMPLETE     August 7, 2024 
+  90 51618255     160           COMPLETE     August 7, 2024 
+  91 51620139     160           COMPLETE     August 7, 2024 
+  92 51639429     160           COMPLETE     August 7, 2024 
+  93 51639159     160           COMPLETE     August 7, 2024 
+  94 51619955     160           COMPLETE     August 7, 2024 
+  95 51580244     160           COMPLETE     August 7, 2024 
+  96 51639859     160           COMPLETE     August 7, 2024 
+  97 51640869     160           COMPLETE     August 7, 2024 
+  98 51639894     160           COMPLETE     August 7, 2024 
+  99 51640334     160           COMPLETE     August 7, 2024 
+ 100 51639907     160           COMPLETE     August 7, 2024 
+ 101 51641250     160           COMPLETE     August 7, 2024 
+ 102 51670533     160           COMPLETE     August 7, 2024 
+ 103 52187612     160           COMPLETE     August 7, 2024 
+ 104 51666500     160           COMPLETE     August 7, 2024 
+ 105 51666677     160           COMPLETE     August 7, 2024 
+ 106 51668392     160           COMPLETE     August 7, 2024 
+ 107 51672104     160           COMPLETE     August 7, 2024 
+ 108 51675656     160           COMPLETE     August 7, 2024 
+ 109 51671959     160           COMPLETE     August 7, 2024 
+ 110 51673423     160           COMPLETE     August 7, 2024 
+ 111 51671452     160           COMPLETE     August 7, 2024 
+ 112 51673000     160           COMPLETE     August 7, 2024 
+ 113 51673783     160           COMPLETE     August 7, 2024 
+ 114 51677385     160           COMPLETE     August 7, 2024 
+ 115 51677557     160           COMPLETE     August 7, 2024 
+ 116 51677544     160           COMPLETE     August 7, 2024 
+ 117 51679707     160           COMPLETE     August 7, 2024 
+ 118 51680924     160           COMPLETE     August 7, 2024 
+ 119 51677600     160           COMPLETE     August 7, 2024 
+ 120 51680326     160           COMPLETE     August 7, 2024 
+ 121 51677815     160           COMPLETE     August 7, 2024 
+ 122 51677291     160           COMPLETE     August 7, 2024 
+ 123 51682188     160           COMPLETE     August 7, 2024 
+ 124 51683578     160           COMPLETE     August 7, 2024 
+ 125 51686812     160           COMPLETE     August 7, 2024 
+ 126 51685490     160           COMPLETE     August 7, 2024 
+ 127 51685508     160           COMPLETE     August 7, 2024 
+ 128 51687434     160           COMPLETE     August 7, 2024 
+ 129 51686351     160           COMPLETE     August 7, 2024 
+ 130 51686344     160           COMPLETE     August 7, 2024 
+ 131 51687393     160           COMPLETE     August 7, 2024 
+ 132 51709428     160           COMPLETE     August 7, 2024 
+ 133 51695083     160           COMPLETE     August 7, 2024 
+ 134 51709298     160           COMPLETE     August 7, 2024 
+ 135 51711960     160           COMPLETE     August 7, 2024 
+ 136 51689666     160           COMPLETE     August 7, 2024 
+ 137 51688594     160           COMPLETE     August 7, 2024 
+ 138 51592252     160           COMPLETE     August 7, 2024 
+ 139 51714403     160           COMPLETE     August 7, 2024 
+ 140 51713743     160           COMPLETE     August 7, 2024 
+ 141 51714785     160           COMPLETE     August 7, 2024 
+ 142 51716476     160           COMPLETE     August 7, 2024 
+ 143 51717749     160           COMPLETE     August 7, 2024 
+ 144 51672529     160           COMPLETE     August 7, 2024 
+ 145 51720000     160           COMPLETE     August 7, 2024 
+ 146 51718363     160           COMPLETE     August 7, 2024 
+ 147 51719468     160           COMPLETE     August 7, 2024 
+ 148 51724257     160           COMPLETE     August 7, 2024 
+ 149 51749569     160           COMPLETE     August 7, 2024 
+ 150 51685960     160           COMPLETE     August 7, 2024 
+ 151 51775082     160           COMPLETE     August 7, 2024 
+ 152 51749572     160           COMPLETE     August 7, 2024 
+ 153 51750840     160           COMPLETE     August 7, 2024 
+ 154 51778318     160           COMPLETE     August 7, 2024 
+ 155 51775090     160           COMPLETE     August 7, 2024 
+ 156 51777483     160           COMPLETE     August 7, 2024 
+ 157 51777798     160           COMPLETE     August 7, 2024 
+ 158 51772157     160           COMPLETE     August 7, 2024 
+ 159 51776987     160           COMPLETE     August 7, 2024 
+ 160 51778061     160           COMPLETE     August 7, 2024 
+ 161 51777716     160           COMPLETE     August 7, 2024 
+ 162 51781472     160           COMPLETE     August 7, 2024 
+ 163 51780230     160           COMPLETE     August 7, 2024 
+ 164 51783805     160           COMPLETE     August 7, 2024 
+ 165 51781254     160           COMPLETE     August 7, 2024 
+ 166 51781239     160           COMPLETE     August 7, 2024 
+ 167 51782187     160           COMPLETE     August 7, 2024 
+ 168 51679414     160           COMPLETE     August 7, 2024 
+ 169 51680566     160           COMPLETE     August 7, 2024 
+ 170 51460615     160           COMPLETE     August 7, 2024 
+ 171 51665839     160           COMPLETE     August 7, 2024 
+ 172 51673665     160           COMPLETE     August 7, 2024 
+ 173 51673679     160           COMPLETE     August 7, 2024 
+ 174 51676999     160           COMPLETE     August 7, 2024 
+ 175 51677592     160           COMPLETE     August 7, 2024 
+ 176 51679708     160           COMPLETE     August 7, 2024 
+ 177 51461138     160           COMPLETE     August 7, 2024 
+ 178 51479810     160           COMPLETE     August 7, 2024 
+ 179 51515134     160           COMPLETE     August 7, 2024 
+ 180 51681163     160           COMPLETE     August 7, 2024 
+ 181 51518693     160           COMPLETE     August 7, 2024 
+ 182 51711129     160           COMPLETE     August 7, 2024 
+ 183 51684107     160           COMPLETE     August 7, 2024 
+ 184 51777721     160           COMPLETE     August 7, 2024 
+ 185 51518817     160           COMPLETE     August 7, 2024 
+ 186 51524277     160           COMPLETE     August 7, 2024 
+ 187 51710800     160           COMPLETE     August 7, 2024 
+ 188 51811126     160           COMPLETE     August 7, 2024 
+ 189 51531854     160           COMPLETE     August 7, 2024 
+ 190 51534817     160           COMPLETE     August 7, 2024 
+ 191 51536138     160           COMPLETE     August 7, 2024 
+ 192 51561071     160           COMPLETE     August 7, 2024 
+ 193 51561425     160           COMPLETE     August 7, 2024 
+ 194 51874992     160           COMPLETE     August 7, 2024 
+ 195 51875265     160           COMPLETE     August 7, 2024 
+ 196 51880651     160           COMPLETE     August 7, 2024 
+ 197 51880652     160           COMPLETE     August 7, 2024 
+ 198 51562284     160           COMPLETE     August 7, 2024 
+ 199 51576687     160           COMPLETE     August 7, 2024 
+ 200 51617121     160           COMPLETE     August 7, 2024 
+ 201 51624511     160           COMPLETE     August 7, 2024 
+ 202 51624583     160           COMPLETE     August 7, 2024 
+ 203 51625338     160           COMPLETE     August 7, 2024 
+ 204 51811458     160           COMPLETE     August 7, 2024 
+ 205 51625528     160           COMPLETE     August 7, 2024 
+ 206 51885393     160           COMPLETE     August 7, 2024 
+ 207 51811872     160           COMPLETE     August 7, 2024 
+ 208 51885397     160           COMPLETE     August 7, 2024 
+ 209 51625553     160           COMPLETE     August 7, 2024 
+ 210 51892011     160           COMPLETE     August 7, 2024 
+ 211 51639985     160           COMPLETE     August 7, 2024 
+ 212 51811941     160           COMPLETE     August 7, 2024 
+ 213 51641874     160           COMPLETE     August 7, 2024 
+ 214 51813138     160           COMPLETE     August 7, 2024 
+ 215 51813527     160           COMPLETE     August 7, 2024 
+ 216 51814075     160           COMPLETE     August 7, 2024 
+ 217 51814076     160           COMPLETE     August 7, 2024 
+ 218 51815391     160           COMPLETE     August 7, 2024 
+ 219 51904308     160           COMPLETE     August 7, 2024 
+ 220 51910566     160           COMPLETE     August 7, 2024 
+ 221 51914511     160           COMPLETE     August 7, 2024 
+ 222 51915056     160           COMPLETE     August 7, 2024 
+ 223 51915244     160           COMPLETE     August 7, 2024 
+ 224 51915933     160           COMPLETE     August 7, 2024 
+ 225 51913680     160           COMPLETE     August 7, 2024 
+ 226 51914501     160           COMPLETE     August 7, 2024 
+ 227 51918253     160           COMPLETE     August 7, 2024 
+ 228 51817255     160           COMPLETE     August 7, 2024 
+ 229 51918269     160           COMPLETE     August 7, 2024 
+ 230 51818096     160           COMPLETE     August 7, 2024 
+ 231 51918688     160           COMPLETE     August 7, 2024 
+ 232 51918701     160           COMPLETE     August 7, 2024 
+ 233 51819858     160           COMPLETE     August 7, 2024 
+ 234 51919019     160           COMPLETE     August 7, 2024 
+ 235 51821555     160           COMPLETE     August 7, 2024 
+ 236 51821622     160           COMPLETE     August 7, 2024 
+ 237 51824468     160           COMPLETE     August 7, 2024 
+ 238 51919169     160           COMPLETE     August 7, 2024 
+ 239 51997240     160           COMPLETE     August 7, 2024 
+ 240 51998217     160           COMPLETE     August 7, 2024 
+ 241 51998373     160           COMPLETE     August 7, 2024 
+ 242 51998383     160           COMPLETE     August 7, 2024 
+ 243 51999760     160           COMPLETE     August 7, 2024 
+ 244 52000018     160           COMPLETE     August 7, 2024 
+ 245 52000053     160           COMPLETE     August 7, 2024 
+ 246 52000106     160           COMPLETE     August 7, 2024 
+ 247 52000349     160           COMPLETE     August 7, 2024 
+ 248 52004892     160           COMPLETE     August 7, 2024 
+ 249 52006847     160           COMPLETE     August 7, 2024 
+ 250 52006891     160           COMPLETE     August 7, 2024 
+ 251 52014057     160           COMPLETE     August 7, 2024 
+ 252 52014301     160           COMPLETE     August 7, 2024 
+ 253 52014311     160           COMPLETE     August 7, 2024 
+ 254 52014470     160           COMPLETE     August 7, 2024 
+ 255 51919519     160           COMPLETE     August 7, 2024 
+ 256 51919915     160           COMPLETE     August 7, 2024 
+ 257 51962001     160           COMPLETE     August 7, 2024 
+ 258 51972028     160           COMPLETE     August 7, 2024 
+ 259 51973376     160           COMPLETE     August 7, 2024 
+ 260 51988983     160           COMPLETE     August 7, 2024 
+ 261 51988984     160           COMPLETE     August 7, 2024 
+ 262 51988985     160           COMPLETE     August 7, 2024 
+ 263 51989728     160           COMPLETE     August 7, 2024 
+ 264 51990141     160           COMPLETE     August 7, 2024 
+ 265 51991604     160           COMPLETE     August 7, 2024 
+ 266 51995134     160           COMPLETE     August 7, 2024 
+ 267 51995820     160           COMPLETE     August 7, 2024 
+ 268 51996981     160           COMPLETE     August 7, 2024 
+ 269 52014577     160           COMPLETE     August 7, 2024 
+ 270 52014680     160           COMPLETE     August 7, 2024 
+ 271 52016706     160           COMPLETE     August 7, 2024 
+ 272 52017052     160           COMPLETE     August 7, 2024 
+ 273 52017365     160           COMPLETE     August 7, 2024 
+ 274 52017432     160           COMPLETE     August 7, 2024 
+ 275 51824766     160           COMPLETE     August 7, 2024 
+ 276 52017459     160           COMPLETE     August 7, 2024 
+ 277 52018018     160           COMPLETE     August 7, 2024 
+ 278 51843407     160           COMPLETE     August 7, 2024 
+ 279 52018131     160           COMPLETE     August 7, 2024 
+ 280 51845708     160           COMPLETE     August 7, 2024 
+ 281 52032488     160           COMPLETE     August 7, 2024 
+ 282 51846237     160           COMPLETE     August 7, 2024 
+ 283 52032602     160           COMPLETE     August 7, 2024 
+ 284 51846712     160           COMPLETE     August 7, 2024 
+ 285 52034213     160           COMPLETE     August 7, 2024 
+ 286 51846799     160           COMPLETE     August 7, 2024 
+ 287 52034415     160           COMPLETE     August 7, 2024 
+ 288 51848994     160           COMPLETE     August 7, 2024 
+ 289 52034885     160           COMPLETE     August 7, 2024 
+ 290 51859774     160           COMPLETE     August 7, 2024 
+ 291 52038093     160           COMPLETE     August 7, 2024 
+ 292 51861331     160           COMPLETE     August 7, 2024 
+ 293 52046900     160           COMPLETE     August 7, 2024 
+ 294 51862651     160           COMPLETE     August 7, 2024 
+ 295 52258922     160           COMPLETE     August 7, 2024 
+ 296 51869693     160           COMPLETE     August 7, 2024 
+ 297 51870490     160           COMPLETE     August 7, 2024 
+ 298 51871469     160           COMPLETE     August 7, 2024 
+ 299 51815665     160           COMPLETE     August 7, 2024 
+ 300 51821629     160           COMPLETE     August 7, 2024 
+ 301 51846345     160           COMPLETE     August 7, 2024 
+ 302 51846366     160           COMPLETE     August 7, 2024 
+ 303 51845918     160           COMPLETE     August 7, 2024 
+ 304 51863844     160           COMPLETE     August 7, 2024 
+ 305 51850363     160           COMPLETE     August 7, 2024 
+ 306 51816231     160           COMPLETE     August 7, 2024 
+ 307 51824224     160           COMPLETE     August 7, 2024 
+ 308 51810467     160           COMPLETE     August 7, 2024 
+ 309 51863913     160           COMPLETE     August 7, 2024 
+ 310 51862917     160           COMPLETE     August 7, 2024 
+ 311 51810486     160           COMPLETE     August 7, 2024 
+ 312 51863090     160           COMPLETE     August 7, 2024 
+ 313 51818091     160           COMPLETE     August 7, 2024 
+ 314 51811091     160           COMPLETE     August 7, 2024 
+ 315 51869389     160           COMPLETE     August 7, 2024 
+ 316 51869292     160           COMPLETE     August 7, 2024 
+ 317 51872755     160           COMPLETE     August 7, 2024 
+ 318 51877580     160           COMPLETE     August 7, 2024 
+ 319 51875735     160           COMPLETE     August 7, 2024 
+ 320 51881504     160           COMPLETE     August 7, 2024 
+ 321 51846128     160           COMPLETE     August 7, 2024 
+ 322 51882396     160           COMPLETE     August 7, 2024 
+ 323 51843381     160           COMPLETE     August 7, 2024 
+ 324 51810124     160           COMPLETE     August 7, 2024 
+ 325 51884295     160           COMPLETE     August 7, 2024 
+ 326 51887337     160           COMPLETE     August 7, 2024 
+ 327 51890249     160           COMPLETE     August 7, 2024 
+ 328 51890260     160           COMPLETE     August 7, 2024 
+ 329 51847431     160           COMPLETE     August 7, 2024 
+ 330 51912967     160           COMPLETE     August 7, 2024 
+ 331 51811081     160           COMPLETE     August 7, 2024 
+ 332 51914558     160           COMPLETE     August 7, 2024 
+ 333 51906729     160           COMPLETE     August 7, 2024 
+ 334 51912980     160           COMPLETE     August 7, 2024 
+ 335 51912688     160           COMPLETE     August 7, 2024 
+ 336 51918396     160           COMPLETE     August 7, 2024 
+ 337 51862183     160           COMPLETE     August 7, 2024 
+ 338 51915158     160           COMPLETE     August 7, 2024 
+ 339 51918001     160           COMPLETE     August 7, 2024 
+ 340 51917734     160           COMPLETE     August 7, 2024 
+ 341 51918597     160           COMPLETE     August 7, 2024 
+ 342 51923398     160           COMPLETE     August 7, 2024 
+ 343 51919512     160           COMPLETE     August 7, 2024 
+ 344 51919295     160           COMPLETE     August 7, 2024 
+ 345 51923413     160           COMPLETE     August 7, 2024 
+ 346 52014605     160           COMPLETE     August 7, 2024 
+ 347 52004824     160           COMPLETE     August 7, 2024 
